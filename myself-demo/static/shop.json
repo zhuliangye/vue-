@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "brand": "小米",
+    "single": "小米8",
+    "price":2000,
+    "num":1,
+    "subtotal":2000,
+    "src":"http://img5.imgtn.bdimg.com/it/u=2832339970,2922734525&fm=15&gp=0.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "华为",
+    "single": "荣耀5",
+    "price":1800,
+    "num":1,
+    "subtotal":1800,
+    "src":"http://img1.imgtn.bdimg.com/it/u=3648924359,1500284622&fm=15&gp=0.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "苹果",
+    "single": "苹果XsMax",
+    "price":10000,
+    "num":1,
+    "subtotal":10000,
+    "src":"http://img5.imgtn.bdimg.com/it/u=2832339970,2922734525&fm=15&gp=0.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "vivo",
+    "single": "vivo11",
+    "price":1000,
+    "num":1,
+    "subtotal":1000,
+    "src":"http://img5.imgtn.bdimg.com/it/u=3735235685,2282517424&fm=15&gp=0.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "oppo",
+    "single": "oppo13",
+    "price":1200,
+    "num":1,
+    "subtotal":1200,
+    "src":"http://img4.imgtn.bdimg.com/it/u=521421430,3397658304&fm=15&gp=0.jpg"
+  }
+]
